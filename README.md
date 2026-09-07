@@ -5,10 +5,13 @@ You type free-text actions ("look around", "take the sword", "go north") and
 the AI narrates the world, tracks your health, inventory, location and story
 flags, and advances a living story. **Every playthrough is different.**
 
-Built with **TypeScript + React + Vite** as a single-page web app, backed by
-a live LLM endpoint (`chatjimmy.ai/api/chat`) — no narration is hardcoded.
+Built with **TypeScript + React + Vite** as a single-page web app.
 
 > **Live demo:** run locally with `npm run serve` → http://localhost:4173
+
+<img width="1352" height="986" alt="Screenshot at Sep 07 23-28-39" src="https://github.com/user-attachments/assets/e896105e-76b4-4779-9aaa-47ed706a175d" />
+<img width="1586" height="1033" alt="Screenshot at Sep 07 23-28-55" src="https://github.com/user-attachments/assets/e5eb81af-c9e0-48ae-a7b0-ddb872099b49" />
+
 
 ---
 
